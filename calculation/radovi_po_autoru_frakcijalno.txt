@@ -1,0 +1,24 @@
+Fractional Count (Fraction of Papers per Author):
+Author                          Katedra                  
+tatjana pekmezovic              katedra za epidemiologiju    222.958333
+vladimir trajkovic              katedra za imunologiju       135.866667
+vera pravica                    katedra za imunologiju        76.583333
+ljiljana markovic-denic         katedra za epidemiologiju     73.083333
+maja stanojevic                 katedra za mikrobiologiju     52.983333
+tatjana gazibara                katedra za epidemiologiju     46.458333
+valentina arsic-arsenijevic     katedra za mikrobiologiju     40.500000
+jovan ranin                     infektivne bolesti            34.083333
+sandra sipetic-grujicic         katedra za epidemiologiju     33.916667
+ivana cirkovic                  katedra za mikrobiologiju     33.416667
+darija kisic-tepavcevic         katedra za epidemiologiju     29.041667
+natasa maksimovic               katedra za epidemiologiju     28.875000
+jadranka maksimovic             katedra za epidemiologiju     28.541667
+dusan popadic                   katedra za imunologiju        26.566667
+eleonora dubljanin              katedra za mikrobiologiju     23.000000
+slobodanka djukic               katedra za mikrobiologiju     22.583333
+dragana vukovic                 katedra za mikrobiologiju     21.866667
+goran stevanovic                infektivne bolesti            21.500000
+tanja jovanovic                 katedra za mikrobiologiju     20.916667
+lazar ranin                     katedra za mikrobiologiju     19.100000
+branislava savic                katedra za mikrobiologiju     17.500000
+ivana lazarevic                 katedra za mikrobiologiju     15.766667

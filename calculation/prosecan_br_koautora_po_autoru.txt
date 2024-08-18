@@ -1,0 +1,24 @@
+eleonora dubljanin              katedra za mikrobiologiju    390.742857
+isidora vujcic                  katedra za epidemiologiju    343.814815
+valentina arsic-arsenijevic     katedra za mikrobiologiju     71.816327
+maja stanojevic                 katedra za mikrobiologiju     32.342857
+vladimir trajkovic              katedra za imunologiju        32.161290
+irena arandjelovic              katedra za mikrobiologiju     32.000000
+branislava savic                katedra za mikrobiologiju     18.740741
+jasmina simonovic-babic         infektivne bolesti            14.500000
+irena vukovic-petrovic          katedra za imunologiju        12.000000
+jelena jordovic                 infektivne bolesti            11.833333
+natasa nikolic                  infektivne bolesti            11.600000
+jovan malinic                   infektivne bolesti            10.000000
+ivana lazarevic                 katedra za mikrobiologiju      9.275000
+ivana milosevic                 infektivne bolesti             9.166667
+jasmina poluga                  infektivne bolesti             9.058824
+nikola mitrovic                 infektivne bolesti             8.950000
+milos korac                     infektivne bolesti             8.840000
+aleksandra radovanovic-spurnic  infektivne bolesti             8.750000
+vladimir perovic                katedra za imunologiju         8.750000
+goran stevanovic                infektivne bolesti             8.684211
+ksenija bojovic                 infektivne bolesti             8.600000
+emina milosevic                 katedra za imunologiju         8.500000
+vladimir nikolic                katedra za epidemiologiju      8.000000
+gorica maric                    katedra za epidemiologiju      7.884615
